@@ -143,5 +143,6 @@ button{
   color: var(--color-pink);
 }
 .activity__title{
-  margin: auto;
+  margin: 20px
+  text-align:center;
 }
