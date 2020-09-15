@@ -131,18 +131,23 @@ button{
 }
 
 .activity_content{
-
-  margin: 40px 16px;
-  text-align: center;
-  color: var(--color-dark-grey);
+  
+  margin: 20px 5px;
+  text-align: left;
+  color: var(--color-white);
   font-size: var(--font-regular);
-  border: 3px solid var(--color-pink);
+  border: 20px solid var(--color-yellow);
   padding-bottom: 100px;
+  background-color: var(--color-pink);
+  border-radius: var(--border-radius);
 }
 .activity__icon{
   color: var(--color-pink);
 }
 .activity__title{
-  margin: 20px
+
   text-align:center;
+}
+#skills{
+
 }
