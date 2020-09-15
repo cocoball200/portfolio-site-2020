@@ -8,7 +8,7 @@
 }
 .icon {
   display: inline;
-  max-inline-size: 25%;
+  max-inline-size: 35%;
 }
 
 a {
@@ -22,8 +22,8 @@ a {
   display: flex;
 }
 .navbar__menu__item {
-  padding: 8px 10px;
-  margin: 0 4px;
+  padding: 5px 10px;
+  margin: 0 2px;
   cursor: pointer;
   border-radius: var(--border-radius);
 }
