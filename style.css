@@ -95,6 +95,9 @@ button{
 .section {
   padding: 50px;
   text-align: center;
+  margin: auto;
+}
+.section__container{
   max-width: 1200px;
   margin: auto;
 }
@@ -149,5 +152,22 @@ button{
   text-align:center;
 }
 #skills{
+  background-color: var(--color-yellow);
 
+}
+.skillset{
+  display: flex;
+  background-color: var(--color-light-white);
+  color: var(--color-light-white);
+  margin: 20px 0;
+}
+.skillset__title{
+  color: var(--color--white);
+}
+.skillset__left{
+  flex-basis: 60%;
+  background-color: var(--color-light-grey);
+}
+.skillset__right{
+  flex-basis: 40%;
 }
